@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/ef68c0b7-05c5-40c2-a87c-a6bbcc7f0ebe/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/deploy-web-app-now",
+    "appService.deploySubpath": ""
+}
